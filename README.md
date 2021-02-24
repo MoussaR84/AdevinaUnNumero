@@ -1,5 +1,8 @@
 # AdevinaUnNumero
 
+![IMG_1081](https://user-images.githubusercontent.com/59939024/109006839-bef2cb00-76ab-11eb-873e-856403108802.PNG)
+![IMG_1082](https://user-images.githubusercontent.com/59939024/109006844-c0bc8e80-76ab-11eb-8d44-cb5158aef9e8.PNG)
+![IMG_1083](https://user-images.githubusercontent.com/59939024/109006848-c1edbb80-76ab-11eb-804d-3d7bf787c536.PNG)
 
 ## Install the project
 
